@@ -3,7 +3,7 @@ A dxvk cache that is automatically pushed weekly to ensure the latest cache for 
 
 An up to date DXVK cache is needed to play without massive stutters. Usually you just have to play with the stutters while the cache is building.In this case im supplying an up-to-date cache for you. 
 
-The Binary file (Overwatch.dxvk-cache) is hard linked to to my local git repo. I have a cronjob that pushes the updates upstream to github weekly to ensure the freshest DXVK cache. Enjoy!
+The Binary file (Overwatch.dxvk-cache) is hard linked to to my local git repo. I have a cronjob that pushes the updates upstream to github weekly to ensure the freshest DXVK cache. Please submit a ticket if you have any issues. 
 
 ###INSTALLING:
 
