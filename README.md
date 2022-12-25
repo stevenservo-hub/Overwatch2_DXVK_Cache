@@ -1,5 +1,5 @@
 # Overwatch2_DXVK_Cache
-A dxvk cache that is automatically pushed weekly to ensure the latest cache for Overwatch2
+A dxvk cache that is automatically pushed weekly to ensure the latest cache for Overwatch2.
 
 An up to date DXVK cache is needed to play without massive stutters. Usually you just have to play with the stutters while the cache is building.In this case im supplying an up-to-date cache for you. 
 
